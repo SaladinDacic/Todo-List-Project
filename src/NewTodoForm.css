@@ -1,0 +1,34 @@
+.Form-Body-Edit{
+    display: flex;
+    height: 53px;
+    align-items: center;
+    justify-content: center;
+}
+.Form-Body-Add{
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+    transform: scaleX(1.2);
+}
+
+.Form-Label-Add{
+    display: flex;
+}
+
+.Form-Input-Section-Add{
+    display: flex;
+    height: 3.5em;
+}
+
+.Form-Input-Section-Add button{
+    background-color: #f45352;
+    color: white;
+    border-radius: 5px;
+}
+.Form-Input-Section-Edit button{
+    background-color: #f45352;
+    color: white;
+    border-radius: 5px;
+}
